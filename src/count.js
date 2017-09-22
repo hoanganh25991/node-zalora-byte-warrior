@@ -55,6 +55,7 @@ const count = (nxn) => {
     }, {count: 0, lastRow: []})
 
     console.log(numByteWarriors.count)
+    return numByteWarriors.count
 }
 
 
